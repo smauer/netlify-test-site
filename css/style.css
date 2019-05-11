@@ -1,8 +1,12 @@
+.page {
+    content: flex;
+}
+
 .panel {
     border-radius: 6px;
     background-color: #cccccc;
     border-color: #222222;
     width: 50vw;
     margin: 10px;
-    place-content: center;
+    align-content: center;
 }
