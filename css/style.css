@@ -2,4 +2,5 @@ panel {
     border-radius: 50%;
     background-color: #cccccc;
     border-color: #222222;
+    width: 80vw;
 }
